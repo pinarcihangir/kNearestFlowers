@@ -1,0 +1,1 @@
+This project is my school project. This program's purpose find the finding flower's kind with data set's help and of course kNearest algorithm which ı wrote it.
